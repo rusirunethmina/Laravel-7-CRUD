@@ -1,3 +1,9 @@
+# git clone 
+# composer install
+# setup database
+# php artisan migrate
+# php artisan serve
+
 ![homepage](https://user-images.githubusercontent.com/66967029/131252616-4bc59c11-15f1-4b60-aadc-a0aad0f84a9c.png)
 ![show](https://user-images.githubusercontent.com/66967029/131252577-a66ace7d-7c6b-411d-8ab1-429ffb1c5333.PNG)
 ![create](https://user-images.githubusercontent.com/66967029/131252596-bc499473-f6d2-46b2-822a-02e179d9bc68.PNG)
