@@ -40,7 +40,7 @@ class PostController extends Controller
 
     public function show_post()
     {
-        $post = Post::all();
+        $post = Post::paginate(4);
         return view('posts.show', ['posts' => $post]);
     }
 
